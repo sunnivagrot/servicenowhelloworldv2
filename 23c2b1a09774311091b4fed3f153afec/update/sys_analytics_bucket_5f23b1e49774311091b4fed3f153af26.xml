@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_analytics_bucket">
+    <sys_analytics_bucket action="INSERT_OR_UPDATE">
+        <analytics_channel display_value="web">6496ef61c7001010393d265c95c260b9</analytics_channel>
+        <application_name>sphello</application_name>
+        <bucket_document_id>0a13b1e49774311091b4fed3f153afeb</bucket_document_id>
+        <bucket_metadata/>
+        <bucket_table_name>sp_portal</bucket_table_name>
+        <bucket_type>service_portal</bucket_type>
+        <enable_unauthenticated_user_tracking>false</enable_unauthenticated_user_tracking>
+        <enabled>true</enabled>
+        <internal_name_for_index>x_1111236_hellowor.sp_portal.0a13b1e49774311091b4fed3f153afeb</internal_name_for_index>
+        <sys_class_name>sys_analytics_bucket</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-18 12:43:47</sys_created_on>
+        <sys_id>5f23b1e49774311091b4fed3f153af26</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sphello</sys_name>
+        <sys_package display_value="Helloworldv2" source="x_1111236_hellowor">23c2b1a09774311091b4fed3f153afec</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Helloworldv2">23c2b1a09774311091b4fed3f153afec</sys_scope>
+        <sys_update_name>sys_analytics_bucket_5f23b1e49774311091b4fed3f153af26</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-18 12:43:47</sys_updated_on>
+    </sys_analytics_bucket>
+</record_update>
